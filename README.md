@@ -15,8 +15,6 @@
 ![Screenshot 2](./img_vid/2.png)
 
 
-## Video
-![Watch the video](./img_vid/video.mp4)
 
   
 
