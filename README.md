@@ -11,12 +11,12 @@
 
 
 ## Screenshots
-[!Screenshot 1](./img_vid/1.png)
-[!Screenshot 2](./img_vid/2.png)
+![Screenshot 1](./img_vid/1.png)
+![Screenshot 2](./img_vid/2.png)
 
 
 ## Video
-[![Watch the video](./img_vid/video.mp4)]
+![Watch the video](./img_vid/video.mp4)
 
   
 
